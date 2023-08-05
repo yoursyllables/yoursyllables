@@ -1,9 +1,5 @@
 # Hi there 👋,I'm Murl.
 I'm an undergraduate student interested in Mathematics and Computer Science.
-
-[![Murl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murl)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yoursyllables/yoursyllables** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
