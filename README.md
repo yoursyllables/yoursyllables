@@ -1,5 +1,8 @@
 # Hi there 👋,I'm Murl.
 I'm an undergraduate student interested in Mathematics and Computer Science.
+
+[![My Skills](https://skillicons.dev/icons?i=py,r,md,latex,git)](https://skillicons.dev)
+
 <!--
 **yoursyllables/yoursyllables** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
